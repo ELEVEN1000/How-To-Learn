@@ -70,7 +70,6 @@
   bottom: 0;
   z-index: 1;
 }
-
 .header__square-pic {
   position: absolute;
   height: 568px;
@@ -78,13 +77,6 @@
   background-color: #2f80ed;
   margin-top: 64px;
   right: 0;
-}
-
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
 }
 
 /*************************************************************************** */
@@ -175,6 +167,8 @@
   padding: 0;
 }
 .table__subtext {
+  margin: 0;
+  padding: 0;
   padding-top: 20px;
 }
 .margins {
@@ -234,7 +228,6 @@
 }
 .feynman__image_position {
   position: absolute;
-  z-index: 1;
   width: 867px;
   height: 637px;
   left: 0;
@@ -259,6 +252,8 @@
 }
 .table__cell_theme_dark {
   width: 200px;
+  color: white;
+  margin-right: 0;
   margin-top: 80px;
 }
 .table__heading_hteme_dark {
@@ -302,7 +297,6 @@
   font-weight: normal;
   line-height: 25px;
   height: fit-content;
-  margin: 0;
   padding: 0;
   position: absolute;
   bottom: 0;
