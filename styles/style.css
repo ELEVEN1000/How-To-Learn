@@ -154,10 +154,8 @@
   margin: 0;
   padding: 0;
 }
-.margins {
-  margin: 0;
-  padding: 0;
-  padding-bottom: 20px;
+.table__text_subtitle {
+  padding-top: 20px;
 }
 /*------------------------Feynman-------------------------->*/
 .feynman {
@@ -280,6 +278,7 @@
   list-style-type: none;
 }
 .footer__column-link {
+  display: flex;
   color: #fff;
   font-size: 18px;
   font-weight: normal;
