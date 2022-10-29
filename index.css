@@ -64,4 +64,5 @@
 @import url(./blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(./blocks/video/video.css);
 @import url(./blocks/video/__iframes/video__iframes.css);
+@import url(./blocks/video/__iframe/video__iframe.css);
 
