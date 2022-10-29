@@ -1,7 +1,7 @@
-.link_mouse-hover {
+.hover {
   transition: 1s;
 }
-.link_mouse-hover:hover {
+.hover:hover {
   opacity: 0.7;
   transition: opacity 0.3s linear;
 }
